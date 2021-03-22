@@ -1,0 +1,11 @@
+body{
+    background: rgb(182, 154, 248);
+    color: black;
+}
+.heading{
+    width: 80%;
+    font-size: 25px;
+}
+.name_of_objects,#result_object_name,#result_object_accuracy{
+    color:rgb(17, 0, 255);
+}
